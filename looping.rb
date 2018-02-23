@@ -1,4 +1,4 @@
 def looping
 	loop do
-    return "Wingardium Leviosa"
+    puts "Wingardium Leviosa"
 end
